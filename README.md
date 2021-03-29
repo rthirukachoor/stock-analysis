@@ -21,10 +21,10 @@ To refactor the existing 'Stock Analysis' code so that Steve can continue his st
 ## Results
 
 - After refactoring the code performs better when compared to the original code. Please refer to the below links for your perusal.
-   https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG
-   https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG
-   https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/OriginalCodeRunTime_2017YearAnalysis.PNG
-   https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/OriginalCodeRunTime_2018YearAnalysis.PNG
+   - https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG
+   - https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG
+   - https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/OriginalCodeRunTime_2017YearAnalysis.PNG
+   - https://github.com/rthirukachoor/stock-analysis/blob/main/Resources/OriginalCodeRunTime_2018YearAnalysis.PNG
 
 - Advantages of Refactored Code:
   1. The analysis can scale to larger dataset to include the entire stock market over last few years
